@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://i.postimg.cc/dVgHwj7V/MARADONA-ESP.png",Maradona
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6148ab7eb75aa60007ca07a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/1200px-Setanta_Sports.svg.png",UCRA | SETANTA SPORTS UA HD
+http://spacetv.in/stream/DIPK8H19CP8/313.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://i.postimg.cc/ZYFS480d/SP5-RT-ESP.png",BIELOR | 5 SPORT
+https://185-198-56-58.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://i.postimg.cc/jSLvbM46/matchtv.png",RUS | MATCH! FOOTBALL 1 HD²
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/KHL_logo_shield_2016.svg/1200px-KHL_logo_shield_2016.svg.png",RUS | KHL HD
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://i.postimg.cc/KzrDNwmb/MATH-1-AMARILLO.png",UCRA | FOOTBALLUA 1
+https://95-213-224-179.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://i.postimg.cc/ZYHLvGfF/MATH-2-AMARILLO.png",UCRA | FOOTBALLUA 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png",POL | CANAL + SPORTS
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",beIN Sports Xtra [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/profile_images/1249430024161296384/94_2mLG2_400x400.jpg",Беларусь 5 /HD/
+https://95-213-224-180.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.livesport.ge/tv/img/setanta.png",SETANTA SPORTS /HD/
+https://95-213-224-186.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="DEPORTES 2" tvg-logo="https://i.imgur.com/LmkNt3v.png",INVICTO TV /HD/
+https://unbeaten-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y recreación" tvg-logo="https://i.postimg.cc/WpQHY4gX/MAVTV-SELECT.png",MAV TV Select | HD
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Deportes y recreación" tvg-logo="https://i.postimg.cc/BZ8zCFLj/MAVTTV.png",MavTV (STIRR) (720p)  (Sports)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.postimg.cc/cCtVgwKK/FUTBOL-NEW-YORK-ESP.png",Futbol Network | HD | Estados Unidos
+https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png",Pluto TV Action Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/L8ZWWYJH/MAT-1.png",Матч! Футбол 1 HD
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1  tvg-logo="https://cpng.pikpng.com/pngl/s/489-4897447_-match-tv-russia-logo.png",Матч ТВ (576p) [Not 24/7]  (Sports)
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1  tvg-logo="https://www.adventuresportstv.net/favicon.ico",ASN Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.pngfind.com/pngs/m/337-3375323_emirates-stadium-arsenal-emirates-stadium-logo-hd-png.png",Stadium| HD
+https://stadium.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV (Opt-2)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Great Britain" tvg-logo="https://images.pluto.tv/channels/5eb95d63b270fc0007c465e6/colorLogoPNG.png",People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb95d63b270fc0007c465e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN SPORTS XTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png",Pluto TV Spike Aventura
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/5t1sCyr5/BEIN-SPORTS-EXTRA-MODIF.png",Bein Sport Xtra Español
+https://beinesp-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ALL SPORT" tvg-logo="https://www.androidfreeware.net/img2/com-spring-futboltv.jpg",FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.postimg.cc/KzryTj65/MAT-1-VERDE.png",Матч! Футбол 1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.postimg.cc/DZg1sGcy/MAT-2-VERDE.png",Матч! Футбол 2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://stadion-kuban.ru/800/600/http/onlines.tv/wp-content/uploads/2018/02/match_fut_3.png",Матч! Футбол 3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_19_3719_E_70_1680000_0_0_0.png",Football 1 Ukraine
+https://chostv.mobie.in/choos/sports/qyt1.m3u8
+#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Football 2 Ukraine
+https://chostv.mobie.in/choos/sports/qyt2.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/2017_Asian_Indoor_and_Martial_Arts_Games_logo.svg/220px-2017_Asian_Indoor_and_Martial_Arts_Games_logo.svg.png",TURMEKISTAN SPORTS/HD/
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/profile_images/1249430024161296384/94_2mLG2_400x400.jpg",Беларусь 5 /HD/
+https://95-213-172-220.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/new/qazsporthd.png/",AU |  Qazsport  /hd/
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png",AU | Snowy Mountains TV
+http://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/08/NewTV-e1533829106516-1024x768.jpg",NEW TV/HD/
+http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1  tvg-logo="https://cdn5.f-cdn.com/contestentries/1466821/28943976/5c45701bbb9bf_thumb900.jpg",Sport 2U
+http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/mf5E7OI.png",Arryadia 3| SD | Marruecos
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/8rOJgmD.png",Viasat Sports | HD | Rusia
+http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  tvg-logo="https://kvindesport.dk/wp-content/uploads/2017/10/unisport-logo.png",UNI SPORTS /HD/
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 group-title="United States" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1583469815_edge-sport.jpg",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/4/4d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg.png",Матч!
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DzPhcg7D/eurosports3.png",EUROSPORT 2  /HD/
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1  tvg-logo="https://rushandball.ru/Files/field/image/zzzz_0.jpg",MAT 4 /HD/
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/1200px-Impact_Wrestling_Logo.svg.png",Impact Wrestling [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png",ROH Wrestling [ENG]
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2017/07/mmaj-header-logo.png",MMA Junkie [ENG]
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png",Bellator MMA [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png",MLB Network [ENG]
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png",MLS [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=385&deviceId=5cbf6a868a1bce4a3d52a5e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png",NFL Network [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-6-logo-black-and-white.png",PGA [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.soda.com/wp-content/uploads/2017/04/FOX_Sports_Sun_live_stream-600x361.png",Pluto TV - Fox Sports [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQEoXrnCB4vHyQ/company-logo_200_200/0/1534888401749?e=2159024400&v=beta&t=2IMYI-8TeoDkroNW6lr3vyUHhS3QiBWNJ6Az_23in2E",Bek Sports TV [ENG]
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="DOMINICAN REPUBLIC" tvg-logo="https://cdn.shopify.com/s/files/1/0356/3234/9319/files/Adventure_Logo_Generic_No_Color_1200x630.png?v=1585371511",AVENTURE SPORT /HD/
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/04/Poker_Channel_Logo.png",POKER TV ARABIA /HD/
+http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://static.wixstatic.com/media/242286_049047be9f6d436e94e60be0067baca1~mv2.png/v1/fill/w_360,h_140,al_c,q_95/Combat-Go-Logo-(white)-2500x1000.webp",Combat GO [ENG]
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1  tvg-logo="https://www.rapidtvnews.com/images/2019/July_2019/combat-18-july-2019.jpg",Combat Go /HD/
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/si-tv-slovenija-2-5534.jpg",2 SLO /HD/
+https://20-rtvslo-tv-slo2-slo.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/si-tv-slovenija-2-5534.jpg",2 SLO Int /HD/
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.5acd523361c47_ElGarage.png.2d99f55f7fd0742a8dd7a8ee94cbab10.png",El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png",UFC NETWORK
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1  tvg-logo="https://mostvideo.tv/local/templates/most_video_2016/images/logo.png",Most Video TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.ytimg.com/vi/Fy3DtT_Q974/maxresdefault.jpg",Chive TV
+http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.soleol.ch/cms/uploads/image/2-actualites/canal-alpha.png",Canal Alpha
+http://canalalpha.vedge.infomaniak.com/livecast/canalalpha/playlist.m3u8
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200",Harley Davidson TV EN
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200",Harley Davidson Racing TV EN
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 group-title="Deportivos Int." tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200",Harley Davidson Factory TV EN
+https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png",Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cne-eg.com/uploads/logos/20183143127531.png",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cne-eg.com/uploads/logos/20183142520385.png",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://cne-eg.com/uploads/logos/2018314320255.png",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.teleboy.ch/assets/stations/525/icon320_light.png",Canal Alpha Jura
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://mytv-online.com/wp-content/uploads/2016/12/adsports-3.png",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://4.bp.blogspot.com/-EwC4_g5Pllo/XZpromwhADI/AAAAAAAAAEM/TwKGys24Kf0p0D9LUAPz40GEX8WYJf7qQCLcBGAsYHQ/s1600/Abu%2BDhabi%2BSports%2B4%2BHD.png",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://mytv-online.com/wp-content/uploads/2016/12/adsports-5.png",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://3.bp.blogspot.com/-gW6iak32vXI/Waa1ZF86xyI/AAAAAAAAAv8/G-oTyVLha6cmZhLDWrMgvTP1up9cZV5NgCLcBGAs/s640/149902446962ba4.png",Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://ln.heytv.org/wp-content/uploads/2019/03/abu-dhabi-sports-2.png",abudhabi_sport2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://hockeyasturias.files.wordpress.com/2013/10/esport3_logo2011.png",Esport 3
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cornbelttelephone.com/wp-content/uploads/STADIUM-LOGO_STACKED-BLUE-METALLIC-ON-BLACK_DARKER-V2_00000-1024x576.jpg",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://3.bp.blogspot.com/-kB7L316_ig4/UQ1T9AwYx3I/AAAAAAAADhg/ZSZWIfikszQ/s1600/edge.jpg",Edge Sport
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmL7_s1Ebqfmlbd0_ZpEqsbYm6Heu1UusfOlPnddmhxQ&usqp=CAU&ec=45695923",Filmon 25
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyjjE4kCgDAX-tJpfiJV3l7yvqNxPYGurybOlZ3mAXdQ&usqp=CAU&ec=45695923",Sports TV Turkey
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://media.cmsmax.com/ctavxqg4lud6pubkqlwln/logo-500.png",Smash Sport /HD/
+http://s3.smashmalta.com:82/live/smash/smash/17.ts
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.iptvmate.net/5e93684cb9de7a3a2438005c.png",BEK Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg",Fight Sports
+http://45.126.83.51/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.pngkit.com/png/full/297-2976424_deportes-png-deporte.png",ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png",GARAJE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://c10.patreonusercontent.com/3/eyJ3Ijo0MDB9/patreon-media/p/reward/463517/d52237bc8cc84cd9ba1807c4a4deef94/1?token-time=2145916800&token-hash=3ougjVtrry7YYd5r6ddKmyPvkLBN9pptBYM8d7q6c6A%3D",Darcizzle Offshore (USA)
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ccxmedia.org/wp-content/uploads/2019/02/FBPlayoftheWeekStilll-2.jpg",CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="JAPAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzO63HQCTp3Oj7ImD2GCoftjrujMZOZu5Ytw&usqp=CAU",Golf Network (New!)
+http://203.162.235.41:16924
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xRwJZjUt9tC6r4JI5P1W79NcqFIplquQmg&usqp=CAU",Bahrain Sports www.achoAPPS.com
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-1  tvg-logo="http://www.championsbasketballnetwork.com/ArticleManager/articles/getImage/3035",CBS Sports
+http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1  tvg-logo="https://static.filmon.com/assets/channels/374/extra_big_logo.png",Football FilmoN /HD/
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/374?pprotocol=hls
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png",GLORY Kickboxing [ENG]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://www.arax.md/assets/channels/228.png",RUS | SETANTA SPORTS 1 HD
+http://spacetv.in/stream/DIPK8H19CP8/234.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAkSzLQJJtqd8uFfo5jN42IzzPiE00bsYOQ&usqp=CAU",RUS | SETANTA SPORTS 2 HD
+http://spacetv.in/stream/DIPK8H19CP8/235.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://marcadegol.com/fotos/2010/09/Intersport.jpg",UCRA | INTERSPORT 1
+http://spacetv.in/stream/DIPK8H19CP8/159.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://marcadegol.com/fotos/2010/09/Intersport.jpg",UCRA | INTERSPORT 2
+http://spacetv.in/stream/DIPK8H19CP8/191.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejV-xC6Kp6NE9CJ1GCHKOiDI9VanT711KUQ&usqp=CAU",RUS | MATCH! FOOTBALL 1 HD
+http://spacetv.in/stream/DIPK8H19CP8/130.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5M8tqZZXTRxUBzZhIjdbIi30uHC-iP72Yw&usqp=CAU",RUS | MATCH! FOOTBALL 2 HD
+http://spacetv.in/stream/DIPK8H19CP8/142.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5M8tqZZXTRxUBzZhIjdbIi30uHC-iP72Yw&usqp=CAU",RUS | MATCH! FOOTBALL 2 HD²
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIZp7ofLzS8_UJ3RR82D-RHxa5rhvwF4UJSA&usqp=CAU",RUS | MATCH! FOOTBALL 3 HD
+http://spacetv.in/stream/DIPK8H19CP8/185.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/mat4_premier.jpg?6ctgwRnWSWiWUNxZIewdimJAjIAQEtu6&itok=AYsHbPzL",RUS | MATCH! PREMIER
+http://spacetv.in/stream/DIPK8H19CP8/193.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/4/4d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg.png",RUS | MATCH! TB
+http://spacetv.in/stream/DIPK8H19CP8/169.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnwh-SFriLoXBmyFLJghooEZzz-4XpdWBUQ&usqp=CAU",RUS | MATCH! ARENA
+http://spacetv.in/stream/DIPK8H19CP8/163.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/b/b2/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%91%D0%BE%D0%B5%D1%86.jpg",RUS | MATCH! COMBATE
+http://spacetv.in/stream/DIPK8H19CP8/112.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://ntvplus.tv/files/image/01/17/32/i2o.png",RUS | MATCH! GAME
+http://spacetv.in/stream/DIPK8H19CP8/188.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://pbs.twimg.com/media/EHpK-mRWkAEyxmn.png",RUS | MATCH! СТРАНА
+http://spacetv.in/stream/DIPK8H19CP8/143.m3u8
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbIkxCjYHGpobHQhKkaqUu66j7sYuK8C8YEsIsoasP&s",UCRA | SPORT1
+https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
+#EXTINF:-1 group-title="DEPORTES ASIA/AFRICA" tvg-logo="https://www.medias24.com/photos_articles/big/08-01-2020/MarocSports0.JPG",MARRUECOS | MAROC SPORTS
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
